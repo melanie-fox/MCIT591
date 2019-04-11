@@ -13,6 +13,7 @@
 //and here is the other change 2.
 
 //and this one
+//Avatar was here
 public class Card {
 	
 	//instance variables
