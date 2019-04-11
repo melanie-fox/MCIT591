@@ -12,6 +12,7 @@
 
 //and here is the other change 2.
 
+//and this one
 public class Card {
 	
 	//instance variables
