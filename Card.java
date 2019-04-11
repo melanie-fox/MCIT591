@@ -6,6 +6,12 @@
  * @author melaniefox
  *
  */
+
+
+/** this is a new comment, just to practice comitting changes on git. Change 1*/
+
+//and here is the other change 2.
+
 public class Card {
 	
 	//instance variables
